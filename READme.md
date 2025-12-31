@@ -64,3 +64,13 @@ This repository contains a collection of **console-based C++ projects** develope
 
 ## 📁 Repository Structure
 
+C++ Projects/
+│
+├── calculator.cpp
+├── login.cpp
+├── calender.cpp
+├── library.cpp
+├── billing.cpp
+├── quiz.cpp
+├── *.exe # Compiled executables (Windows)
+└── README.md
